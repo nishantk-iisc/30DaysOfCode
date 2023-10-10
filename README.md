@@ -1,3 +1,3 @@
-# Hackerrank
-# 30 Days of Code
-# C++
+### Hackerrank
+### 30 Days of Code
+### C++
